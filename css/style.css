@@ -1,0 +1,17 @@
+* {margin: 0px;padding: 0px;}
+@font-face {
+    font-family: arabic;
+    src: url('../font/AvenirArabic-Medium.otf');
+}
+html{ scroll-behavior: smooth;}
+body {
+    font-family: 'arabic' !important;
+}
+.content .types .menu-item {
+    background-color: rgb(180, 180, 180);
+}
+
+.go-top {
+    width: 30px;
+    height: auto;
+}
